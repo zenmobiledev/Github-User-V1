@@ -2,6 +2,14 @@
 
 [![Platform](https://img.shields.io/badge/platform-Android-green.svg)](http://developer.android.com/index.html) [![Kotlin](https://img.shields.io/badge/kotlin-1.7.0-orange.svg)](http://kotlinlang.org) [![Gradle](https://img.shields.io/badge/gradle-7.2.0-%2366DCB8.svg)](https://developer.android.com/studio/releases/gradle-plugin)
 
+:exclamation: **WARNING**
+
+> Sesuai dengan [terms of use](https://www.dicoding.com/termsofuse) di Dicoding, submission kelas Dicoding Academy haruslah hasil karya Anda sendiri.
+
+>Kode yang didapatkan dari sumber lain (website, buku, forum, GitHub, dan lain-lain) hanya digunakan sebagai referensi. **Tingkat kesamaannya tidak boleh lebih dari 70%.**
+
+> Kami memiliki hak mutlak untuk mengenakan sanksi kepada peserta plagiat yang melanggar ketentuan di atas. Sanksi tersebut berupa penangguhan akun Dicoding. Artinya Anda tidak dapat melakukan submission apapun di kelas Dicoding Academy selama masa penangguhan. Progress belajar peserta kelas Dicoding Academy pun, otomatis kami reset ke 0 (nol), tanpa terkecuali.
+
 # Table Of Contents
 - [Introduction](#introduction)
 - [Demo](#demo)
@@ -10,8 +18,8 @@
 
 ## Introduction
 
-For more details?
-> [Submission 1 : Aplikasi GitHub User](https://www.dicoding.com/academies/14/tutorials/258)
+For more details.
+> :point_right: :point_right: :point_right: [Submission 1 : Aplikasi GitHub User](https://www.dicoding.com/academies/14/tutorials/258) :point_left: :point_left: :point_left:
 
 
 ## Demo
